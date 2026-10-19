@@ -50,17 +50,17 @@ export default function Home() {
               {/* The project name in semibold near-black. */}
               <p className="font-semibold text-stone-950">InvestmentTracker</p>
               {/* The project description in softer gray. */}
-              <p className="text-stone-600">A personal quant project.</p>
+              <p className="text-stone-600">A personal project.</p>
             {/* Closes the first project item. */}
             </li>
             {/* Starts the second project item. */}
             <li>
               {/* The project name in semibold near-black. */}
-              <p className="font-semibold text-stone-950">Movo</p>
+              <p className="font-semibold text-stone-950">Startup</p>
               {/* Starts the project description in softer gray. */}
               <p className="text-stone-600">
                 {/* What Movo does and what your part is. */}
-                Computer vision that tracks trucks and trailers across yard cameras. I work on the OCR and the detector fine-tuning.
+                Computer vision project that tracks trucks and trailers across yard cameras.
               {/* Closes the project description. */}
               </p>
             {/* Closes the second project item. */}
